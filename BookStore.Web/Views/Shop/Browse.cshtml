@@ -1,0 +1,26 @@
+﻿@model IEnumerable<BookStore.Web.Models.Book>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Shop Books By @ViewBag.author.AuthorName</h2>
+
+<section>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-sm-6 col-lg-4 mb-3">
+                <div class="card mb-3 text-center h-100">
+                    <div class="card-body">
+                        <a asp-controller="Shop" asp-action="BookDetails" asp-route-book="@item.BookId">@item.BookName</a>
+                        <h5>@String.Format("{0:c}",item.Price)</h5>
+                    </div>
+                </div>
+            </div>
+
+        }
+    </div>
+
+</section>

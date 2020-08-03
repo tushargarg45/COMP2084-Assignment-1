@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gFOQxyNKjZxEMWivqbfmPwDKKUlUImMMv5jOXaB5X5xXR3z4nuOUOQ/KINHPkm3P311LdF+/KREmUZq9hAEEVQ==",
+  "dgSpecHash": "Nhyfiy0vr6PP4y4ox2ACUHRQGUz/9InyC/YNjb8LYDzhsgqlxlT4BK0CJu5Bb2Og7fvb52aqWwvWqVRw92Axcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\meharsingh\\Desktop\\Assignment\\COMP2084-Assignment-1\\BookStore.Web\\BookStore.csproj",
+  "projectFilePath": "C:\\Users\\meharsingh\\Desktop\\ASP ASS\\Tushar\\COMP2084-Assignment-1\\BookStore.Web\\BookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\meharsingh\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\meharsingh\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

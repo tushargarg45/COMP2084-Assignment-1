@@ -12537,11 +12537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\meharsingh\\Desktop\\Assignment\\COMP2084-Assignment-1\\BookStore.Web\\BookStore.csproj",
+      "projectUniqueName": "C:\\Users\\meharsingh\\Desktop\\ASP ASS\\Tushar\\COMP2084-Assignment-1\\BookStore.Web\\BookStore.csproj",
       "projectName": "BookStore",
-      "projectPath": "C:\\Users\\meharsingh\\Desktop\\Assignment\\COMP2084-Assignment-1\\BookStore.Web\\BookStore.csproj",
+      "projectPath": "C:\\Users\\meharsingh\\Desktop\\ASP ASS\\Tushar\\COMP2084-Assignment-1\\BookStore.Web\\BookStore.csproj",
       "packagesPath": "C:\\Users\\meharsingh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\meharsingh\\Desktop\\Assignment\\COMP2084-Assignment-1\\BookStore.Web\\obj\\",
+      "outputPath": "C:\\Users\\meharsingh\\Desktop\\ASP ASS\\Tushar\\COMP2084-Assignment-1\\BookStore.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\meharsingh\\AppData\\Roaming\\NuGet\\NuGet.Config",
